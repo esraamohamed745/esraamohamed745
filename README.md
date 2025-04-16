@@ -1,11 +1,15 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,<𝚌𝚘𝚍𝚎𝚛𝚜/> i'm Esraa! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
  
  <div align="center" width="50">
  
- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
- 
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,<𝚌𝚘𝚍𝚎𝚛𝚜><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />i'm Esraa <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
  </div>
  
+ <div>
+   🌱 I’m currently learning to be a front end developer.
+ </div>
+ 
+ <br />
  You have finally discovered my Github profile. <br>
  Please feel free to clone projects and raise issues if you think something could be better.
  
@@ -21,8 +25,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
- <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
- <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
  
  </div>
  
