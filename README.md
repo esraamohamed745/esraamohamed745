@@ -9,7 +9,10 @@
 <br><br>
  
  <div>
+   #### About Me
+    👨‍💻 I graduated from suez canal universty in 2024
    🌱 I’m currently learning to be a front end developer.
+
  </div>
  
  <br />
