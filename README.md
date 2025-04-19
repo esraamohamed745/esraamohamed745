@@ -11,6 +11,7 @@
  <div>
     <h4> About Me</h4>
     👨‍💻 I graduated from suez canal universty in 2024
+  <br>
    🌱 I’m currently learning to be a front end developer.
 
  </div>
