@@ -10,8 +10,8 @@
  
  <div>
     <h4> About Me</h4>
-    👨‍💻 I graduated with a bachelor degree in english commerce specializing <br>  👨‍💻in Business Information System(BIS) from suez canal uneversity in 2024.
-  <br> <br>
+     🎓 I graduated with a bachelor degree in english commerce <br> 👨‍💻specializing in Business Information System(BIS) from suez canal uneversity in 2024.
+     <br>
    🌱 I’m currently learning to be a front end developer.
 
  </div>
