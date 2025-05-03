@@ -4,8 +4,10 @@
  
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,<𝚌𝚘𝚍𝚎𝚛𝚜><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />i'm Esraa <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
  </div>
- 
- <img   align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500" style="text-align:center">
+
+  <div align="center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="600">
+  </div
 <br><br>
  
  <div>
